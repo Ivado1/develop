@@ -15,7 +15,7 @@ namespace Camera
         private Vector3 ResetCamera;
 
         private bool drag = false;
-        public float cameraBorderWidth;
+        public float cameraBorderWidth; // how far can the camera move
 
         private void Start()
         {
